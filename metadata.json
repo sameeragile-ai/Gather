@@ -1,0 +1,6 @@
+{
+  "name": "Gather - Modern Social Community",
+  "description": "Discover people, join interest-driven communities, share posts, and engage in real-time conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
